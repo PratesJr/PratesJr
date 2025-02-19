@@ -1,6 +1,6 @@
 ## Hello, I'm Marcelo Prates
 
-🔭  I'm a brazilian back-end software engineer, most of my career I had been working with Javascript and Typescript, but in the last years I also started work with Java, Go and Python.
+🔭  I'm a brazilian back-end software engineer, most of my career I had been working with Javascript and Typescript, but in the last years I also started to work with Java, Go and Python.
 
 💬 I`m very interested in software architecture, that's why I'm studying to improve my hard skills like software design, full cycle development, now i can understand that is very important be involved with the product and the process, not just coding.
 
