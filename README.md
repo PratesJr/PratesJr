@@ -1,44 +1,109 @@
-## Hello, I'm Marcelo Prates
+<h1 align="center">Hey, I'm Marcelo Prates 👋</h1>
 
-🔭  I'm a brazilian back-end software engineer, most of my career I had been working with Javascript and Typescript, but in the last years I also started to work with Java, Go and Python.
-
-💬 I`m very interested in software architecture, that's why I'm studying to improve my hard skills like software design, full cycle development, now i can understand that is very important be involved with the product and the process, not just coding.
-
-<p align="left">
-  🦄 Programming Languages:  Javascript, Typescript, Go, Python, Java, SQL
+<p align="center">
+  🚀 Back-end Software Engineer (or Craftsman, as Uncle Bob suggests) <br/>
+  🧩 Curious about Software Architecture & Clean Code <br/>
+  🇧🇷 Brazilian developer writing code with rhythm since 2015
 </p>
 
-<p align="left">
-  💼 Tools: VSCode, AWS, MySql, PostgreSql, Azure, Datadog, GCloud
+---
+
+### 🧠 About Me
+
+I'm a back-end engineer with a solid background in **JavaScript** and **TypeScript**, and in the past few years, I've been working with **Go**, **Java**, and **Python** as well.
+
+I'm especially curious about **software architecture**, **design principles**, and **how code evolves with teams and products**. I believe building software isn't just about writing code — it's about understanding the product, collaborating on the process, and solving the right problems.
+
+Recently, I started studying **front-end** and **mobile development** (React and React Native — beginner level), so if you explore my repositories, you might find some projects with rough UI or design — all part of the learning process!
+
+---
+
+### 💡 Philosophy & Approach
+
+I’m passionate about writing clean, maintainable code that lasts. I embrace testing, continuous learning, and craftsmanship principles to build software that solves real problems — not just code that runs.
+
+Familiar with Clean Architecture, Domain-Driven Design (DDD), and event-driven systems. I enjoy applying design patterns that promote scalability and maintainability.
+
+Advocate for Agile methodologies, DevOps culture, and automated CI/CD pipelines to deliver value quickly and reliably.
+
+I have experience teaching programming in social projects, and also mentoring in a corporate Talent Development program — helping to structure training, form new programmers across multiple languages, and develop new mentors.
+
+---
+
+### 🧰 Tech Stack
+
+**Languages:**  
+JavaScript • TypeScript • Go • Python • Java • SQL
+
+**Databases:**  
+PostgreSQL • MySQL • MongoDB • DynamoDB
+
+**Platforms:**  
+AWS (including Lambda) • Azure • Google Cloud • Kafka
+
+**Tools:**  
+VSCode • Docker • Kubernetes • CloudFormation • Datadog
+
+**Testing & Automation:**  
+Jest • Cucumber
+
+**Front-end & Mobile (beginner):**  
+React • React Native
+
+---
+
+### 🌍 Languages
+
+- Portuguese (native)  
+- English (fluent)
+
+---
+
+### ⚡ Interests
+
+- 🥋 Muay Thai and weight training; boxing, MMA, and Muay Thai fan (used to practice boxing)  
+- 🎵 Listening to Rap, R&B, and Samba/Pagode  
+- 🍳 Cooking and experimenting with different craft beers
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=PratesJr&show_icons=true&theme=radical&include_all_commits=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratesJr&layout=compact&theme=radical&hide_border=false" />
 </p>
 
-### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=PratesJr&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratesJr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+---
 
---- 
+### ✉️ Get in Touch
 
-### Keep in touch
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mpratesjunior@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mpratesjr/" alt="LinkedIn"/></a>
+<p align="center">
+  <a href="mailto:mpratesjunior@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mpratesjr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
+---
+
+### ✨ Quick Facts
+
+- 🥋 I train muay thai and boxing — I like precision, in code and in punches.  
+- 🧠 Always learning something new about clean code, design, and systems thinking.  
+- ☕ Coffee is part of my deploy pipeline.  
+- 🧪 Tests are not optional.
+
+---
+
+### 😅 Funny Thought
+
+> "When I wrote this code, only God and I knew what it did. Now, only God knows."  
+> (I try to avoid this happening while coding!)
+
+---
+
+> _"Clean code always looks like it was written by someone who cares."_ — Uncle Bob
